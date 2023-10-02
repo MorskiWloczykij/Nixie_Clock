@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [NIXIE_Display.PcbDoc]
+   Generated File[NIXIE_Display.TXT]
+   Generated File[NIXIE_Display.LDP]
+   Generated File[NIXIE_Display.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:02:48 On 11.05.2023

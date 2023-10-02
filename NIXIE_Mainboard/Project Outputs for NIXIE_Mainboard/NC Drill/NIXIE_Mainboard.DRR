@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NIXIE_Mainboard.PcbDoc   08.09.2023  23:49:15
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NIXIE_Mainboard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             200       PTH        1072.35mm (42.22inch)
+T2      0.7mm (28mil)                                             Round             4         PTH        34.55mm (1.36inch)
+T3      0.8mm (31mil)                                             Round             2         PTH        5.00mm (0.20inch)
+T4      1mm (39mil)                                               Round             48        PTH        237.65mm (9.36inch)
+T5      1.15mm (45mil)                                            Round             4         PTH        16.25mm (0.64inch)
+T6      3.2mm (126mil)                                            Round             4         PTH        330.00mm (12.99inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              262
+
+Total Processing Time (hh:mm:ss) : 00:00:01

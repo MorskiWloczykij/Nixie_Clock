@@ -1,0 +1,196 @@
+*************************************************************
+FileName = NIXIE_Display.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Solder
+      File : NIXIE_Display.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : PCB Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : NIXIE_Display.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : PCB Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : NIXIE_Display.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : PCB Outline
+
+
+Used DCodes :
+    D13
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : NIXIE_Display.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : PCB Outline
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : NIXIE_Display.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : PCB Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : PCB Outline
+      File : NIXIE_Display.GM3
+
+    Adding Layer      : PCB Outline
+
+    Adding Layer      : PCB Outline
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : NIXIE_Display.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : PCB Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : NIXIE_Display.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : PCB Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D16
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : NIXIE_Display.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : PCB Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+*************************************************************
+

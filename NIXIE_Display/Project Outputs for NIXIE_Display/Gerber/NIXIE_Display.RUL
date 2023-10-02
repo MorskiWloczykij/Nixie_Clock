@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: D:\Finished\To send\Nixie\NIXIE_Display\NIXIE_Display.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_HV|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Width|RuleName=Width_HV|Scope=Board|Minimum=7.87
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=Width|RuleName=Width_Supply|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
